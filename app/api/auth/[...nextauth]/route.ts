@@ -1,5 +1,5 @@
-import { UserInfo } from "@/models/UserInfo";
-import bcrypt from "bcrypt";
+// import { UserInfo } from "@/models/UserInfo";
+// import bcrypt from "bcrypt";
 import * as mongoose from "mongoose";
 import { User } from "@/models/User";
 import NextAuth, { getServerSession, AuthOptions } from "next-auth";

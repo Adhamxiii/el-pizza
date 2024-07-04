@@ -10,8 +10,8 @@ This project is a landing page dedicated to showcasing a pizza restaurant. The l
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
+  - [Live Demo](#live-demo)
+  - [Contact Me](#contact-me)
 
 ## Features
 
@@ -27,9 +27,9 @@ This project is a static landing page and does not require installation.
 ## Usage
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/pizza-landing-page.git
-    ```
+   ```bash
+   git clone https://github.com/Adhamxiii/el-pizza
+   ```
 2. Open `index.html` in your web browser to view the landing page.
 
 ## Contributing
@@ -38,30 +38,30 @@ We welcome contributions from the community! To contribute, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch:
-    ```bash
-    git checkout -b feature-branch
-    ```
+   ```bash
+   git checkout -b feature-branch
+   ```
 3. Make your changes and commit them:
-    ```bash
-    git commit -m "Description of your changes"
-    ```
+   ```bash
+   git commit -m "Description of your changes"
+   ```
 4. Push to the branch:
-    ```bash
-    git push origin feature-branch
-    ```
+   ```bash
+   git push origin feature-branch
+   ```
 5. Open a pull request on GitHub.
 
-## License
+## Live Demo
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Check out the live demo of the project [here](https://adham-commerce.vercel.app/).
 
-## Contact
+## Contact Me
 
-For questions, suggestions, or feedback, please contact:
+If you have any questions or suggestions regarding the project, feel free to contact me:
 
-- **Your Name**
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- Email: [adhamxiii22](mailto:adhamxiii22@gmail.com)
+- LinkedIn: [Adham](https://www.linkedin.com/in/adhamnasser/)
+- GitHub: [Adhamxiii](https://github.com/Adhamxiii)
 
 ---
 
