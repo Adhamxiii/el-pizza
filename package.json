@@ -10,29 +10,29 @@
     "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}"
   },
   "dependencies": {
-    "@auth/mongodb-adapter": "^3.1.0",
+    "@auth/mongodb-adapter": "^3.4.1",
     "@types/bcrypt": "^5.0.2",
-    "axios": "^1.7.1",
+    "axios": "^1.7.2",
     "bcrypt": "^5.1.1",
     "model": "^6.0.1",
     "models": "^0.2.0",
-    "mongodb": "^6.6.2",
-    "mongoose": "^8.4.0",
-    "next": "14.2.3",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.4.4",
+    "next": "14.2.4",
     "next-auth": "^4.24.7",
-    "react": "^18",
-    "react-dom": "^18",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-hot-toast": "^2.4.1"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "postcss": "^8",
-    "prettier": "^3.2.5",
-    "prettier-plugin-tailwindcss": "^0.5.14",
-    "tailwindcss": "^3.4.1",
-    "typescript": "^5"
+    "@types/node": "^20.14.9",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "postcss": "^8.4.39",
+    "prettier": "^3.3.2",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.5.3"
   },
   "type": "module"
 }
