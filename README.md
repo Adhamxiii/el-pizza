@@ -53,7 +53,7 @@ We welcome contributions from the community! To contribute, follow these steps:
 
 ## Live Demo
 
-Check out the live demo of the project .
+Check out the live demo of the project [here](https://el-pizza.vercel.app/).
 
 ## Contact Me
 
