@@ -4,7 +4,10 @@ import type { Metadata } from "next";
 import { Roboto } from "next/font/google";
 import "./globals.css";
 
-const roboto = Roboto({ subsets: ["latin"], weight: ["400", "500", "700"] });
+const roboto = Roboto({
+  weight: ["400", "500", "700"],
+  subsets: ["latin"],
+});
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -25,7 +28,7 @@ export default function RootLayout({
 
             {children}
 
-            <footer className="border-t p-8 text-center text-gray-500 mt-16">
+            <footer className="mt-16 border-t p-8 text-center text-gray-500">
               &copy; {new Date().getFullYear()} All rights reserved
             </footer>
           </AppContext>
